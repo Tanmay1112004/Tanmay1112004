@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanmay1112004/Tanmay1112004/blob/main/artificial-intelligence-concept-twitch-banner%20(1).zip)
+![logo](https://github.com/Tanmay1112004/Tanmay1112004/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Tanmay Kshirsagar</h1>
 <h3 align="center">B.Tech Computer Engineering Student</h3>
 
