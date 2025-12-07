@@ -1,145 +1,186 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+# ⚡️ **Tanmay — Full Stack Developer | AI Engineer | Data Wizard**
 
-<br/>
-
-<br/>
+### *“I build stuff that doesn’t break… most of the time.”*
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=riapandey05.riapandey05" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThnMDUydnkxaWwxc2o1MWRweTNzdGFkM2RrYzA2OXNoNG03MGJhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" height="220" />
 </div>
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Tanmay</h1>
+# 👋 **Yo, I’m Tanmay**
 
-<h3 align="center">Machine Learning • Deep Learning • Generative AI • Natural Language Processing</h3>
+I’m your friendly neighborhood **AI engineer + full-stack dev + data analytics dude** who somehow does
+*software dev, business analysis, cloud, devops, MERN stack,*
+and still has time to give career advice to half the engineering college population.
+
+I build:
+
+* 🔥 AI stuff
+* 🔥 Web apps
+* 🔥 Dashboards
+* 🔥 Automation tools
+* 🔥 …and questionable late-night ideas that somehow work
+
+If it involves **LLMs, React, Python, data, cloud, or vibes** — I’m in.
 
 ---
 
-### 👩‍💻 About Me
+# 🧠 **My Tech Stack (a.k.a My Skill Issue Fixers)**
 
-- 🎓 B.Tech in **Computer Science & Engineering** @ **Vellore Institute of Technology** (CGPA **9.13**)  
-- 🤖 Building stuff at the intersection of **Machine Learning, NLP & Generative AI**  
-- 📚 Currently learning **DSA, advanced NLP & LLM workflows**  
-- 💻 Regularly practicing on **LeetCode** & **GeeksforGeeks**  
-- ✨ I enjoy **designing, exploring AI tools, and reading about consciousness & spirituality**
-- 😌 Fun fact : I can playing multiple musical instruments like **Guitar**, **Sitar**, **Drums** and **Keyboard**.
+### 💻 **Languages**
+
+* Python (love story)
+* C++ (DSA trauma)
+* JavaScript/TypeScript (MERN mode ON)
+
+### 🤖 **AI + GenAI + ML**
+
+* TensorFlow, PyTorch
+* HuggingFace, LangChain
+* RAG systems, Finetuning, Embeddings
+* NLP, CV, Transformers
+* Model training, optimization & deployment
+
+### 📊 **Data Engineering / Analytics**
+
+* NumPy, Pandas
+* MySQL, PostgreSQL
+* Power BI
+* Feature engineering, EDA, dashboards
+
+### 🧱 **Full Stack (MERN + Next.js)**
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Next.js
+* REST APIs, auth, deployment
+
+### ☁️ **Cloud & DevOps**
+
+* AWS
+* Docker
+* Git & GitHub CI/CD
+* Streamlit, Flask, FastAPI
+
+### 🎨 **Design + Tools**
+
+* VS Code
+* Canva
+* Figma basics
+* Postman
 
 ---
 
-### 🛠 Languages & Tools
+# 🚀 **Flagship Projects (The Ones I Brag About)**
+
+### 🧾 **Voice-Activated Banking Assistant**
+
+*An AI that fills bank forms for you because typing is overrated.*
+
+* Multi-lingual (Hindi/Odia/English → structured English)
+* DistilBERT + custom regex engine
+* 500+ testers
+* F1 Score: **0.98**
+* Deployment: Streamlit UI with clean UX
+
+---
+
+### 🤖 **ConversoAI — Chatbot With Memory**
+
+*Chatbot that remembers everything like your best friend… but smarter.*
+
+* LangChain memory
+* RAG-powered replies
+* 30% fewer repetitive answers
+* Embeddings stored for long-term recall
+
+---
+
+### ✍️ **LSTMind — Predicts Your Next Word**
+
+* “Hamlet” dataset
+* Multi-layer LSTM
+* Predicts what you’ll type next (creepy but cool)
+* Streamlit UI for live testing
+
+---
+
+### 🧭 **Loan Picks Dashboard (Next.js + AI Chatbot)**
+
+* Personalized loan recommendations
+* Full product explorer
+* AI chatbot powered by embeddings
+* Beautiful Tailwind + shadcn UI
+
+---
+
+# 🏅 **Achievements (Flex Zone)**
+
+* 160-day coding streak on GFG
+* Completed high-level ML/AI bootcamps
+* Built 25+ projects across AI, ML, Full Stack & Data
+* Helped multiple students crack DSA + ML interviews
+* Constantly levelling up LLM + MLOps skills
+
+---
+
+# 🎵 **Outside Tech (Yes, I Have a Life)**
+
+* Obsessed with design + clean UIs
+* Lowkey spiritual because debugging needs divine intervention
+* Big fan of 90s music & calm vibes
+* Touching grass once every 17 business days
+* Gym + code = daily routine
+
+---
+
+# 🔗 Connect With Me
 
 <div align="left">
 
-#### 💻 Programming & Scripting
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> 
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-kshirsagar)
 
-#### 🤖 ML / DL / Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+<!-- GitHub -->
+[![GitHub](https://img.shields.io/badge/GitHub-Tanmay1112004-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay1112004)
 
-#### 🗄 Databases & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+<!-- Portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Tanmay-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanmayportfolio.ccbp.tech/)
 
-#### 🛠 Dev & Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+<!-- Gmail -->
+[![Email](https://img.shields.io/badge/Email-tanmaykshirsagar001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaykshirsagar001@gmail.com)
+
+<!-- Twitter / X -->
+[![Twitter](https://img.shields.io/badge/Twitter-@TanmayKshi40202-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TanmayKshi40202?s=09)
+
+<!-- Discord -->
+[![Discord](https://img.shields.io/badge/Discord-Tanmay-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N3XcjJe3)
+
+<!-- Mobile Number -->
+<span style="font-size:16px;">📱 +91 9322663386</span>
 
 </div>
 
----
 
-### 🚀 Featured Projects
-
-> Check my pinned repos for full details & code.
-
-- 🔊 **Voice-Activated Form Assistant for Banking (VAFA)**  
-  _Python · Hugging Face · DistilBERT · Streamlit_  
-  - Multilingual speech-to-structured-data pipeline for banking forms (Hindi/Odia/English → English).  
-  - Uses DistilBERT for entity classification and a custom Regex engine to extract values like names, phone numbers & amounts.  
-  - Deployed with Streamlit and tested with **500+ users**, achieving **F1 > 0.98**. :contentReference[oaicite:1]{index=1}  
-
-- 💬 **ConversoAI – Chatbot with Conversation Memory**  
-  _Python · LangChain · Hugging Face · Streamlit_  
-  - Chatbot that keeps **long-term context** across sessions using LangChain memory + embeddings.  
-  - Reduces repetitive responses by ~**30%** and supports retrieval-augmented, context-aware replies. :contentReference[oaicite:2]{index=2}  
-
-- ✍️ **LSTMind – Next Word Predictor**  
-  _Python · TensorFlow · Keras · Streamlit_  
-  - Trained on Shakespeare’s *Hamlet* to predict the next word in a sequence.  
-  - Multi-layer LSTM with embeddings + early stopping to reduce overfitting.  
-  - Interactive Streamlit UI for live next-word prediction. :contentReference[oaicite:3]{index=3}  
 
 ---
 
-### 🏅 Achievements & Courseworks :
-
-- 🥈 **Secured a 120th rank (top 5%) among 2000+ teams in the Zelestra x AWS ML Ascend Challenge.**   
-- 🏆 **1st in State** & **4th National** in All-India **Spell-Quest** competition  
-- 🔥 Completed **160-day coding challenge** on GeeksforGeeks  
-- 📜 Certifications:  
-  - Complete **Data Science, ML, NLP, DL Bootcamp – Udemy**  
-  - **Bits and Bytes of Computer Networking – Google**  
-  - **Cloud Computing – NPTEL** :contentReference[oaicite:4]{index=4}  
-
----
-
-### 🎵 Beyond Code
-
-- Operations team member, **College Music Club** (2023–2024)  🎸 
-- Performed as **lead guitarist** at **Thomso’24, IIT Roorkee** and **Swaranjali’22** music fest. :contentReference[oaicite:5]{index=5}  
-
----
-
-### 🔥 My GitHub Stats
+# 🐍 **Contribution Snake**
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=riapandey05&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-  <br/>
-
-
-
-</div>
+</div>  
 
 ---
 
-### 🐍 Contribution Snake
+# ⚡ **If it runs on Python, JavaScript, data, cloud, or GPUs — I can build it.**
 
-<div align="center">
-
-  ![GitHub Snake](https://raw.githubusercontent.com/riapandey05/riapandey05/output/github-contribution-grid-snake.svg)
-
-</div>
-
-</div>
-<!-- </div> -->
+I don’t overpromise. I ship.
+Let’s build something crazy. 🔥💻
 
 ---
-
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ria-pandey-07b4a2250/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-  <a href="mailto:riapandey0805@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
-  </a>
-
-</div>
