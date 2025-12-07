@@ -12,7 +12,7 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Ria Pandey</h1>
+<h1 align="center">Hey there 👋, I'm Tanmay</h1>
 
 <h3 align="center">Machine Learning • Deep Learning • Generative AI • Natural Language Processing</h3>
 
